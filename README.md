@@ -22,7 +22,7 @@ Hi — I’m **Rsept**. Frontend developer with a designer mindset: clear hierar
 Hybrid notes and timer app focused on clear UX, user flow, and persistence.  https://rseptcodes.github.io/To-do-list-timer/)
 
 - **Flip it!** — Focus on your studies with flashcards.
-Features flashcard filtering and mobile-friendly gestures.  (https://rseptcodes.github.io/Flip-it/)
+Features flashcard filtering and mobile-friendly gestures.  (https://rseptcodes.github.io/FlipIt/)
 
 - **SYNCRO** – Multiple synchronized timers.
 A system with a stopwatch and timers that update via a master tick and a reactive Ul.  (https://rseptcodes.github.io/SYNCRO/)
