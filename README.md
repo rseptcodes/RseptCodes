@@ -19,11 +19,13 @@ Hi — I’m **Rsept**. Frontend developer with a designer mindset: clear hierar
 
 ## Projects
 - **Notes & Timer App** — Hybrid notes + timer.
-Hybrid notes and timer app focused on clear UX, user flow, and persistence. (https://rseptcodes.github.io/To-do-list-timer/)
+Hybrid notes and timer app focused on clear UX, user flow, and persistence.  https://rseptcodes.github.io/To-do-list-timer/)
 
-- **Jump Ghost** — Flappy-style learning project.  
-  Flappy-style game with original sprites and a simple, functional game loop.
-  (https://rseptcodes.github.io/Jump-ghost/)
+- **Flip it!** — Focus on your studies with flashcards.
+Features flashcard filtering and mobile-friendly gestures.  (https://rseptcodes.github.io/Flip-it/)
+
+- **SYNCRO** – Multiple synchronized timers.
+A system with a stopwatch and timers that update via a master tick and a reactive Ul.  (https://rseptcodes.github.io/SYNCRO/)
 
 - **JegueBet Simulator** — Betting flow prototype.  
   Betting simulator created for awareness presentations, used with two schools.
