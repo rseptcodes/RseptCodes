@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5C3,100:641C32&height=200&section=header&text=RSEPT%20//%20SYSTEM_CORE&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=twinkling&direction=180" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5C3,100:641C32&height=200&section=header&text=RSEPT%20&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=twinkling&direction=180" width="100%" alt="Header Banner"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F3FF&center=true&vcenter=true&width=750&height=50&lines=%3E_RESET.+REBUILD.+RELOAD.;%3E_SYSTEM+INITIALIZED...;%3E_FRONTEND+DESIGNER+%26+DEVELOPER;%3E_TURNING+BROKEN+UIs+INTO+POLISHED+EXPERIENCES;" alt="Typing SVG"/>
@@ -12,11 +12,11 @@
 
 ---
 
-## 🎛️ // SYSTEM OVERVIEW (ABOUT ME)
+## 💭 // OVERVIEW (ABOUT ME)
 
 ```yaml
 User: Rsept
-Role: Frontend Developer & UI/UX Craftsman
+Role: Frontend Developer
 Mindset: "Clear hierarchy, purposeful micro-interactions, accessible UI."
 Core Protocol: Reset. Rebuild. Reload.
 ```
@@ -25,7 +25,7 @@ Core Protocol: Reset. Rebuild. Reload.
 
 Frontend Developer with a strong eye for design and a focus on building clean, accessible, and performant interfaces. I enjoy taking complex or broken UIs and turning them into smoother, more reliable, and user-friendly experiences.
 
-## ⚡ // TECH STACK & MATRIX TOOLS
+## ⚡ // TECH STACK & TOOLS
 
 Languages
 <p>
@@ -75,24 +75,14 @@ Design & Engineering Tools
 </tr>
 </table>
 
-## 🖥️ // CURRENT DIRECTIVES (TERMINAL)
+## 📚 // Objetivos atuais
 
-```
-┌──(rsept㉿system_core)-[~/directives]
-└─$ cat objectives.json
-{
-  "current_focus": "Advanced Algorithmic Frontend & Reactive Systems",
-  "active_directives": [
-    "Exploring high-frequency UI state management",
-    "Building micro-interactions that feel weightless",
-    "Refining accessibility without sacrificing dark cyberpunk aesthetics"
-  ],
-  "system_integrity": "100%",
-  "status": "Ready for action"
-}
-```
+- Melhorar o gerenciamento de estado em interfaces
+- Criar interações e animações mais fluidas
+- Trabalhar melhor com acessibilidade
+- Criar interfaces simples, modernas e fáceis de usar
 
 </div>
-<p><sub><b>// RSEPT SYSTEM CORE — END OF LINE //</b></sub></p>
+<p><sub><b>// RSEPT — END OF LINE //</b></sub></p>
 </div>
 
