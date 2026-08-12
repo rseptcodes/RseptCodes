@@ -75,7 +75,7 @@ Design & Engineering Tools
 </tr>
 </table>
 
-## 📚 // Current Goals
+## 📚 // CURRENT GOALS
 
 - Improve *state management* in interfaces
 - Create *smoother interactions* and *animations*
