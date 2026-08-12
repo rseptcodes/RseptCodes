@@ -75,12 +75,12 @@ Design & Engineering Tools
 </tr>
 </table>
 
-## 📚 // Objetivos atuais
+## 📚 // Current Goals
 
-- Melhorar o gerenciamento de estado em interfaces
-- Criar interações e animações mais fluidas
-- Trabalhar melhor com acessibilidade
-- Criar interfaces simples, modernas e fáceis de usar
+- Improve *state management* in interfaces
+- Create *smoother interactions* and *animations*
+- Improve *accessibility*
+- Create *simple, modern, and easy-to-use interfaces*
 
 </div>
 <p><sub><b>// RSEPT — END OF LINE //</b></sub></p>
