@@ -12,7 +12,7 @@
 
 ---
 
-## 💭 // OVERVIEW (ABOUT ME)
+## 💭 // ABOUT ME
 
 ```yaml
 User: Rsept
