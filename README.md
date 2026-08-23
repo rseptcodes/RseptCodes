@@ -1,12 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5C3,100:641C32&height=200&section=header&text=RSEPT%20&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=twinkling&direction=180" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:27AA8B,100:571C36&height=200&section=header&text=RSEPT%20&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=twinkling&direction=180" width="100%" alt="Header Banner"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F3FF&center=true&vcenter=true&width=750&height=50&lines=%3E_RESET.+REBUILD.+RELOAD.;%3E_SYSTEM+INITIALIZED...;%3E_FRONTEND+DESIGNER+%26+DEVELOPER;%3E_TURNING+BROKEN+UIs+INTO+POLISHED+EXPERIENCES;" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=27AA8B&center=true&vcenter=true&width=750&height=50&lines=%3E_RESET.+REBUILD.+RELOAD.;%3E_SYSTEM+INITIALIZED...;%3E_FRONTEND+DESIGNER+%26+DEVELOPER;%3E_TURNING+BROKEN+UIs+INTO+POLISHED+EXPERIENCES;" alt="Typing SVG"/>
 </a>
 
-<img src="https://img.shields.io/badge/SYSTEM_STATUS-ONLINE-D8F3F0?style=for-the-badge&logo=microsoft-bing&logoColor=black" />
-<img src="https://img.shields.io/badge/USER_ROLE-FRONTEND_DEV-00E5C3?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/LOCATION-GLOBAL_GRID-641C32?style=for-the-badge&logo=hyperledger&logoColor=white" />
+<img src="https://img.shields.io/badge/AVAILABILITY-OPEN-D8F3F0?style=for-the-badge&logo=microsoft-bing&logoColor=black" />
+<img src="https://img.shields.io/badge/USER_ROLE-FRONTEND_DEV-27AA8B?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/LOCATION-GLOBAL_GRID-571C36?style=for-the-badge&logo=hyperledger&logoColor=white" />
 
 </div>
 
@@ -32,6 +32,7 @@ Languages
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-Learning-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 Design & Engineering Tools
@@ -45,7 +46,7 @@ Design & Engineering Tools
 <td width="33%" valign="top">
 <h3 align="center">🤖 Jogo da Velha (Minimax)</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/AI-Algorithm-D8F3F0?style=flat-square" />
+<img src="https://img.shields.io/badge/AI-Algorithm-571C36?style=flat-square" />
 </p>
 <p>Unbeatable Tic-Tac-Toe powered by the <b>Minimax</b> algorithm. Features 3 difficulty levels: Easy, Medium, and Impossible/Perfect AI.</p>
 <p align="center">
@@ -55,7 +56,7 @@ Design & Engineering Tools
 <td width="33%" valign="top">
 <h3 align="center">💣 Campo Minado Auto-Solver</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Solver-Algorithmic-641C32?style=flat-square" />
+<img src="https://img.shields.io/badge/Solver-Algorithmic-571C36?style=flat-square" />
 </p>
 <p>Recreation of the classic Minesweeper with an <b>Auto-Solver</b> module capable of analyzing board patterns and solving the game automatically.</p>
 <p align="center">
@@ -65,7 +66,7 @@ Design & Engineering Tools
 <td width="33%" valign="top">
 <h3 align="center">⏱️ SYNCRO Timers</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Core-Master_Tick-D8F3F0?style=flat-square" />
+<img src="https://img.shields.io/badge/Core-Master_Tick-27AA8B?style=flat-square" />
 </p>
 <p>Multi-timer and stopwatch system synchronized by a centralized <b>Master Tick</b> with a fully reactive interface.</p>
 <p align="center">
